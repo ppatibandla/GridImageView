@@ -2,6 +2,9 @@
 *.apk
 *.ap_
 
+# Eclipse files
+.metadata/
+
 # Files for the Dalvik VM
 *.dex
 

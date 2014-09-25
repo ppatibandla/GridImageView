@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Image Search</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title">Title</string>
+    <string name="title_activity_image_display">ImageDisplayActivity</string>
+    <string name="image_size_lbl">Image Size</string>
+    <string name="color_filter_lbl">Color Filter</string>
+    <string-array name="image_sizes_array">
+        <item >any</item>
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+        <item>xlarge</item>
+    </string-array>
+    <string-array name="color_filter_array">
+        <item >any</item>
+        <item >blue</item>
+        <item >black</item>
+        <item >red</item>
+        <item >green</item>
+        <item >brown</item>
+        <item >grey</item>
+        <item >yellow</item>
+    </string-array>
+        <string name="save">Save</string>
+        <string name="image_type">ImageType</string>
+        <string name="site_filter">Site Filter</string>
+        <string name="website">example.com</string>
+    <string-array name="image_type_array">
+        <item >any</item>
+        <item >face</item>
+        <item >photo</item>
+        <item >clipart</item>
+        <item >lineart</item>
+    </string-array>
+    
+</resources>
